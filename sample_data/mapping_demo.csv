@@ -1,0 +1,7 @@
+account_id,market,app_platform,progression,purchase_value,active_minutes,last_seen_at,segment_note
+PLY-7001, br,iOS,12,$4.99,35,2024/03/01,organic
+PLY-7002,id,Android,7,0,42,07/03/2024 09:15,paid social
+PLY-7003,US,Android,,12.50,1500,invalid-date,organic
+PLY-7004,vn,iOS,28,-3.5,60,2024-03-04T10:20:00,referral
+PLY-7005,PH,Android,18,"$1,299.00",45,2024-03-05 10:00,paid social
+PLY-7004,vn,iOS,28,-3.5,60,2024-03-04T10:20:00,referral

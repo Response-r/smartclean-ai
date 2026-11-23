@@ -1,0 +1,8 @@
+Player ID,Country Code,Operating System,Player Level,Total Spent,Session Length,Last Active,Extra Note
+PLY-9001, br,iOS,12,$4.99,35,2024/03/01,ignored column
+PLY-9002,id,Android,7,0,42,07/03/2024 09:15,ignored column
+PLY-9003,US,Android,,12.50,1500,invalid-date,ignored column
+PLY-9004,vn,iOS,28,-3.5,60,2024-03-04T10:20:00,ignored column
+PLY-9005,PH,Android,18,"$1,299.00",45,2024-03-05 10:00,ignored column
+PLY-9004,vn,iOS,28,-3.5,60,2024-03-04T10:20:00,ignored column
+
