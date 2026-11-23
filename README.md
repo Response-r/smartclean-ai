@@ -1,6 +1,6 @@
 # SmartClean AI · 智能游戏数据清洗与分析看板
 
-> 面向**海外休闲游戏运营**场景的全栈数据清洗 Demo，用于前端技术面试现场演示。
+> 面向**海外休闲游戏运营**场景的全栈数据清洗 Demo。
 > 一键生成 20 条真实感脏数据 → Pandas 智能清洗 → 规则引擎 AI 业务洞察 → 双栏对比 → 导出干净 CSV。
 
 **技术栈**：Python · FastAPI · Pandas · OpenPyXL · Uvicorn / Vue 3 `<script setup>` · Vite · Tailwind CSS · Axios · Lucide Icons
